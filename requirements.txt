@@ -1,0 +1,9 @@
+python-telegram-bot==20.8
+langchain==0.1.0
+langchain-google-genai==0.0.11
+pandas==2.1.4
+gspread==5.12.4
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+python-dotenv==1.0.0
