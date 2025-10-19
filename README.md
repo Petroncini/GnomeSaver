@@ -34,7 +34,13 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-Dica: caso não tenha o python 3.12 instalado, use o conda
+Dica: caso não tenha o python 3.12 instalado, use o conda:
+```
+conda init
+conda create -n gnome python=3.12.9
+conda activate gnome
+pip install -r requirements.txt
+```
 
 ### Iniciando o serviço
 
