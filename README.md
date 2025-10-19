@@ -45,5 +45,5 @@ python3 gnomesaver.py
 ## 💻 》Como usar
 
 - Abra o Telegram
-- Acesse o link do bot: [GnomeSaver](t.me/Gnome314Bot)
+- Acesse o link do bot: [GnomeSaver](https://t.me/Gnome314Bot)
 - Já pode usar :D
